@@ -1,8 +1,6 @@
 # Morse-code-encoder-and-decoder
 
 
-<h1 align="center"> Encode </h1>
-
 
 
 
